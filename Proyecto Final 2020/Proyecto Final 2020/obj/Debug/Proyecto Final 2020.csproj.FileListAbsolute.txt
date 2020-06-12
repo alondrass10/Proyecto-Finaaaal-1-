@@ -1,0 +1,9 @@
+C:\Users\Nino\Desktop\Ahumada\Proyecto Final 2020\bin\Debug\Proyecto Final 2020.exe.config
+C:\Users\Nino\Desktop\Ahumada\Proyecto Final 2020\bin\Debug\Proyecto Final 2020.exe
+C:\Users\Nino\Desktop\Ahumada\Proyecto Final 2020\bin\Debug\Proyecto Final 2020.pdb
+C:\Users\Nino\Desktop\Ahumada\Proyecto Final 2020\obj\Debug\Proyecto Final 2020.csprojAssemblyReference.cache
+C:\Users\Nino\Desktop\Ahumada\Proyecto Final 2020\obj\Debug\Proyecto_Final_2020.Form1.resources
+C:\Users\Nino\Desktop\Ahumada\Proyecto Final 2020\obj\Debug\Proyecto_Final_2020.Properties.Resources.resources
+C:\Users\Nino\Desktop\Ahumada\Proyecto Final 2020\obj\Debug\Proyecto Final 2020.csproj.GenerateResource.cache
+C:\Users\Nino\Desktop\Ahumada\Proyecto Final 2020\obj\Debug\Proyecto Final 2020.exe
+C:\Users\Nino\Desktop\Ahumada\Proyecto Final 2020\obj\Debug\Proyecto Final 2020.pdb
